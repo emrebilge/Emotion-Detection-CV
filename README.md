@@ -40,7 +40,6 @@ The system integrates two major components:
   pip install pandas
 
 3. Run the emotion detection script:
-   ```bash
   python emotion_detector.py
 
 ## Usage

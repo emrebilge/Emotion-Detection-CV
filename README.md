@@ -31,13 +31,14 @@ The system integrates two major components:
    git clone https://github.com/yourusername/real-time-emotion-recognition.git
 
 2. Install the required dependencies:
-   ```bash
+
   pip install opencv-python-headless
   pip install tensorflow
   pip install numpy
   pip install matplotlib
   pip install seaborn
   pip install pandas
+
 3. Run the emotion detection script:
    ```bash
   python emotion_detector.py
